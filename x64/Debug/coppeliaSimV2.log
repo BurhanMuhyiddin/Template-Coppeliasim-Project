@@ -1,0 +1,6 @@
+﻿  main.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library E:\MyFolder\C course\CoppeliaSimRelated\coppeliaSimV2\x64\Debug\coppeliaSimV2.lib and object E:\MyFolder\C course\CoppeliaSimRelated\coppeliaSimV2\x64\Debug\coppeliaSimV2.exp
+  Generating code
+  Finished generating code
+  coppeliaSimV2.vcxproj -> E:\MyFolder\C course\CoppeliaSimRelated\coppeliaSimV2\x64\Debug\coppeliaSimV2.exe
